@@ -1,0 +1,272 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+#start {
+    height: 11%;
+    width: 100%;
+    background-color: rgb(160, 156, 156);
+}
+
+#start a {
+    text-decoration-line: none;
+    font-size: 2rem;
+    color: rgb(17, 0, 253);
+
+
+
+
+}
+
+#start img {
+    height: 1.2rem;
+}
+
+nav ul {
+
+    margin-right: 9px;
+    height: 90vh;
+    /* border: 1px solid rgb(17, 0, 253);  */
+
+    width: 20vh;
+    color: rgb(17, 0, 253);
+    padding: 20px;
+}
+
+ul li {
+    list-style: none;
+    padding: 19px;
+    color: rgb(17, 0, 253);
+    /* background-color: black; */
+
+}
+
+ul li button {
+    /* background-color: black; */
+    font-size: 1.2rem;
+
+    height: 35px;
+    padding: 0px 6px;
+    border-radius: 13px;
+    cursor: pointer;
+
+
+}
+
+ul li button:hover {
+    border: 1px solid white;
+}
+
+ul li a {
+    text-decoration-line: none;
+    /* color: black; */
+    color: rgb(17, 0, 253);
+    cursor: pointer;
+
+}
+
+
+div.text {
+    color: rgb(17, 0, 253);
+    position: absolute;
+    top: 30%;
+    height: 70vh;
+    right: 51%;
+}
+
+
+.animation p {
+    color: rgb(17, 0, 253);
+
+    position: absolute;
+    top: 36%;
+    right: 42%;
+}
+
+.button button {
+    color: white;
+    position: absolute;
+    font-size: 1.2rem;
+    top: 49%;
+    right: 55%;
+    height: 41px;
+    width: 109px;
+    border-radius: 13px;
+    background-color: rgb(17, 0, 253);
+    padding: 0px;
+}
+
+.button button a {
+    color: white;
+    text-decoration-line: none;
+
+}
+
+.button button:hover {
+    background-color: rgb(142, 136, 226);
+}
+
+.img img {
+
+    position: absolute;
+    top: 5%;
+    height: 80vh;
+    right: 4%;
+}
+
+/* footer */
+
+footer .end {
+    display: flex;
+    justify-content: center;
+    color: rgb(17, 0, 253);
+    position: absolute;
+    bottom: -9;
+    margin-left: 40%;
+    background-color: rgb(160, 156, 156);
+
+}
+
+footer .end span a {
+    text-decoration-line: none;
+    /* color: black; */
+    color: rgb(17, 0, 253);
+    bottom: 0;
+    position: absolute;
+    margin-left: 54%;
+
+    background-color: rgb(160, 156, 156);
+
+}
+
+
+
+
+/* skill.html page */
+
+.skill {
+    color: rgb(17, 0, 253);
+    position: absolute;
+    top: 22%;
+    right: 46%;
+    font-size: 2rem;
+
+}
+
+.skill li {
+
+    background-color: rgb(140, 138, 138);
+
+}
+
+.photo img {
+    position: absolute;
+    top: 25%;
+    height: 58vh;
+    right: 15%;
+}
+
+
+
+
+/* Education.html */
+
+
+
+
+div.education {
+    position: absolute;
+    top: 27%;
+    height: 39vh;
+    right: 59%;
+    /* color: rgb(17, 0, 253); */
+    border: 10px solid white;
+    height: 29vh;
+}
+
+.box img {
+    height: 165px;
+}
+
+.education .sep {
+    color: rgb(17, 0, 253);
+}
+
+div.education1 {
+    position: absolute;
+    top: 27%;
+    height: 39vh;
+    right: 36%;
+    color: rgb(17, 0, 253);
+    /* border: 10px solid black; */
+    height: 34vh;
+}
+
+.box1 img {
+    height: 165px;
+}
+
+.education .sep1 {
+    color: rgb(17, 0, 253);
+}
+
+
+.pic img {
+    position: absolute;
+    right: 10%;
+    top: 22%;
+    height: 45vh;
+}
+
+
+
+
+/* contact */
+
+
+
+
+
+
+.link {
+    position: absolute;
+    top: 43%;
+  
+    right: 32%;
+    color: rgb(17, 0, 253);
+    border: 1px solid black;
+    height: 34vh;
+    /* width: 44%; */
+    background-color: black;
+
+}
+
+i a {
+    text-decoration-line: none;
+    color: rgb(17, 0, 253);
+}
+
+i {
+    padding: 5px;
+}
+
+form input {
+    margin: 8px;
+    padding: 4px;
+    color: white;
+
+}
+
+.meet img {
+    position: absolute;
+    top: 14%;
+    right: 41%;
+    height: 29%;
+}

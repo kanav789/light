@@ -1,0 +1,23 @@
+@media screen and (max-width:1104px ) {
+
+    .skill {
+        color: rgb(17, 0, 253);
+        
+        top: 67%;
+        right: 36%;
+        font-size: 2rem;
+    
+    }
+    
+    .skill li {
+    
+        background-color: rgb(140, 138, 138);
+    
+    }
+    .photo img {
+        display: flex;
+        justify-items: center;
+        top: 22%;
+        height: 38vh;
+        right: 15%;}
+    }

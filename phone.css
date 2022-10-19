@@ -1,0 +1,78 @@
+/* home page design */
+@media screen and (max-width: 870px) {
+   
+  
+.img img {
+    top: 51%;
+    height: 72vh;
+    right: 1%;
+    display: flex;
+}
+
+div.text {
+    color: rgb(17, 0, 253);
+    right: 31%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    height: 2vh;
+}
+
+nav ul {
+
+    margin-right: 9px;
+    height: 90vh;
+    overflow: auto;
+
+    width: 20vh;
+    color: rgb(17, 0, 253);
+    padding: 20px;
+}
+
+.animation p {
+    color: rgb(17, 0, 253);
+    top: 46%;
+    display: flex;
+    flex-wrap: wrap;
+    right: 12%;
+}
+
+.button button {
+    color: white;
+    position: absolute;
+    font-size: 1.2rem;
+    top: 123%;
+    right: 43%;
+    height: 41px;
+    width: 109px;
+    border-radius: 13px;
+    background-color: rgb(17, 0, 253);
+    padding: 0px;
+}
+
+div.text {
+    color: rgb(17, 0, 253);
+
+    right: 22%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    height: 29vh;
+}
+
+footer .end {
+    display: flex;
+    justify-content: center;
+    color: rgb(17, 0, 253);
+    position: absolute;
+    bottom: -290px;
+    margin-left: 21%;
+}
+
+
+}
+
+
+
